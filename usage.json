@@ -28,5 +28,15 @@
     "session": "/home/bluejay_sta_fc_0/bluejay/timing/bluejay/save_session/save_session_bluejay..anno1111.pt.ffg_0c_0p5v_typ_min.std_min.flat.none.2026Mar22_11_40_post_layout",
     "cmd": "{report_timing",
     "script": "-delay_type"
+  },
+  {
+    "user": "aviadz",
+    "host": "tlv02-container-xterm-054.prd.it.nvidia.com",
+    "timestamp": "2026-03-27T19:14:48Z",
+    "version": "3.28",
+    "session": "/home/bluejay_sta/session/save_session_bluejay.pt",
+    "cmd": "report_timing -delay_type min -from voq/bnc/bcol1/bdh1/g_ff/ps_pack_reg[38]/CP -to hbi_top/hbicc/g_ff0/ps_pack_reg[38]/D -nosplit -physical",
+    "html": "/home/bluejay_sta/timing/selfie_run1_20260327.html",
+    "script": "/home/scratch.aviadz_vlsi/my_projects/selfie.tcl"
   }
 ]

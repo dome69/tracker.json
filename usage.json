@@ -1,1 +1,12 @@
-
+[
+  {
+    "user": "aviadz",
+    "host": "tlv02-container-xterm-054.prd.it.nvidia.com",
+    "timestamp": "2026-03-27T19:26:52Z",
+    "version": "3.28-test",
+    "session": "/test/session",
+    "cmd": "report_timing -delay_type min -from voq/bcol1[38]/CP -to hbi[38]/D",
+    "html": "/tmp/test.html",
+    "script": "/home/scratch.aviadz_vlsi/my_projects/selfie.tcl"
+  }
+]

@@ -19,5 +19,14 @@
     "session": "/home/bluejay_sta_fc_0/bluejay/timing/bluejay/save_session/save_session_bluejay..anno1111.pt.ffg_0c_0p5v_typ_min.std_min.flat.none.2026Mar22_11_40_post_layout",
     "cmd": "{report_timing",
     "script": "-delay_type"
+  },
+  {
+    "user": "aviadz",
+    "host": "tlv02-02-sim-f06-037",
+    "timestamp": "2026-03-27T19:06:36Z",
+    "version": "3.27",
+    "session": "/home/bluejay_sta_fc_0/bluejay/timing/bluejay/save_session/save_session_bluejay..anno1111.pt.ffg_0c_0p5v_typ_min.std_min.flat.none.2026Mar22_11_40_post_layout",
+    "cmd": "{report_timing",
+    "script": "-delay_type"
   }
 ]

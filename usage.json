@@ -4,5 +4,11 @@
     "host": "tlv02-container-xterm-054.prd.it.nvidia.com",
     "timestamp": "2026-03-27T15:07:45Z",
     "script": "track_usage.tcl"
+  },
+  {
+    "user": "aviadz",
+    "host": "tlv02-container-xterm-054.prd.it.nvidia.com",
+    "timestamp": "2026-03-27T15:08:42Z",
+    "script": "track_usage.tcl"
   }
 ]

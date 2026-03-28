@@ -28,5 +28,15 @@
     "cmd": "report_timing -delay_type min  -from voq/bnc/bcol1/bdh1/bdh_freq_adapter/g_condb_feed_send_p1bdh2hbi_1x6_data/g_interface_ff/g_ff/ps_pack_reg[38]/CP -to hbi_top/hbic/hbicc/hbicc_channel/g_condb_shiftreg_p1bdh242hbi1_data_feed_out/g_shiftreg/g_ff0/ps_pack_reg[38]/D  -nosplit  -physical -include_hierarchical_pin -input -capacitance -trans -nets -path_type full_clock",
     "html": "/home/bluejay_sta_chiplet_hport/bluejay/timing/selfie/bluejay/ffg_0c_0p5v_typ_min/selfie_run1_20260327.html",
     "script": "/home/scratch.aviadz_vlsi/my_projects/selfie.tcl"
+  },
+  {
+    "user": "aviadz",
+    "host": "tlv02-container-xterm-054.prd.it.nvidia.com",
+    "timestamp": "2026-03-28T22:14:01Z",
+    "version": "3.28",
+    "session": "/home/bluejay_sta_chiplet_hport/bluejay/timing/bluejay/save_session/save_session_bluejay.pt",
+    "cmd": "report_timing -delay_type min  -from voq/bnc/bcol1/bdh1/bdh_freq_adapter/g_condb_feed_send_p1bdh2hbi_1x6_data/g_interface_ff/g_ff/ps_pack_reg[38]/CP -to hbi_top/hbic/hbicc/hbicc_channel/g_condb_shiftreg_p1bdh242hbi1_data_feed_out/g_shiftreg/g_ff0/ps_pack_reg[38]/D  -nosplit  -physical -include_hierarchical_pin -input -capacitance -trans -nets -path_type full_clock",
+    "html": "/home/bluejay_sta_chiplet_hport/bluejay/timing/selfie/bluejay/ffg_0c_0p5v_typ_min/selfie_run1_20260327.html",
+    "script": "/home/scratch.aviadz_vlsi/my_projects/selfie.tcl"
   }
 ]

@@ -58,5 +58,15 @@
     "cmd": "report_timing -test",
     "html": "/tmp/test.html",
     "script": "/tmp/selfie.tcl"
+  },
+  {
+    "user": "aviadz",
+    "host": "tlv02-container-xterm-054.prd.it.nvidia.com",
+    "timestamp": "2026-03-29T01:16:30Z",
+    "version": "test",
+    "session": "/path/to/session",
+    "cmd": "report_timing -delay_type min -from voq/bnc/bcol1/bdh1/.../ps_pack_reg[38]/CP -to hbi_top/.../D -nosplit -physical",
+    "html": "/home/bluejay_sta/timing/selfie_run1.html",
+    "script": "/home/scratch.aviadz_vlsi/my_projects/selfie.tcl"
   }
 ]
